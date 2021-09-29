@@ -38,4 +38,4 @@ Bugs (still fixing):  <br>
 Username: admin  <br>
 Password: Password@123
 
-!Contributors!<br> MacoyTzy, <br>Y4KNU <br> DosKike
+!Contributors!: <br> MacoyTzy <br>Y4KNU <br> DosKike
